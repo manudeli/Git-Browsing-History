@@ -2,4 +2,4 @@
 
 Creating Snapshots
   - Initializing a repository
-  - Staging changes
+  - Staging changesbugfix
