@@ -1,6 +1,1 @@
-* TABLE OF CONTENT
-
-Creating Snapshots
-  - Initializing a repository
-  - Staging changesbugfix
-hello
+ocean
